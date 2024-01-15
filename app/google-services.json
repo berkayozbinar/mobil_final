@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "695161122416",
+    "project_id": "mobilfinal-d2f7c",
+    "storage_bucket": "mobilfinal-d2f7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695161122416:android:fc76e29a40c22a0d638eb5",
+        "android_client_info": {
+          "package_name": "com.example.mobilfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQh-158nRnvb5XhEqYlT4oVoDu9WrsIX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
